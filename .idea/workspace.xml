@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c9b0631-1a87-4825-9c7c-7260702e03c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/Algorithms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/DatastructuresMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/arrays/BuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/arrays/CommonElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/arrays/DeleteAnElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/arrays/FindAllDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/arrays/FindAnElementAppearsOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/arrays/FindMinInSortedRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/arrays/FindTopKMostFrequentElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/arrays/MaxSumOfSubArrayOfSizeK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/arrays/MaximumDifferenceBnTwoElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/arrays/MaximumSubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/arrays/MergeTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/arrays/PairsWithGivenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/arrays/PrintDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/arrays/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/arrays/ReverseAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/arrays/SecondSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/arrays/Segregate0And1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/arrays/Sort0s1sAnd2s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/arrays/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/CheckPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/DetectLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/InsertNodeAtBeginning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/InsertNodeAtEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/IntersectionOfTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/LengthOfLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/OddEvenList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/PrintMiddleElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/RemoveNthNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/SearchAnElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/SortList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2mnHot2b8eqTUHmqb8dc8h3ulHk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.FindTopKMostFrequentElements">
+    <configuration name="FindAnElementAppearsOnce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.arrays.FindAnElementAppearsOnce" />
+      <module name="DataStructuresAndAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindTopKMostFrequentElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.arrays.FindTopKMostFrequentElements" />
+      <module name="DataStructuresAndAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxSumOfSubArrayOfSizeK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.arrays.MaxSumOfSubArrayOfSizeK" />
+      <module name="DataStructuresAndAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumSubArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.arrays.MaximumSubArraySum" />
+      <module name="DataStructuresAndAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.arrays.ReverseAnArray" />
+      <module name="DataStructuresAndAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindTopKMostFrequentElements" />
+        <item itemvalue="Application.MaxSumOfSubArrayOfSizeK" />
+        <item itemvalue="Application.MaximumSubArraySum" />
+        <item itemvalue="Application.ReverseAnArray" />
+        <item itemvalue="Application.FindAnElementAppearsOnce" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c9b0631-1a87-4825-9c7c-7260702e03c6" name="Changes" comment="" />
+      <created>1727705604737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727705604737</updated>
+    </task>
+    <servers />
+  </component>
+</project>
