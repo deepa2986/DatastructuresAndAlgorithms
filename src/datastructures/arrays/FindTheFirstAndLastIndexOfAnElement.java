@@ -17,6 +17,13 @@ public class FindTheFirstAndLastIndexOfAnElement {
         System.out.println("lastIndex : " + lastIndex );
     }
 
+    public static void getFirstAndLastIndexOptimised(int[] array,int target){
+        int firstIndex = getFirstIndex(array,target);
+        int lastIndex = getLastIndex(array, target);
+        System.out.println(firstIndex);
+        System.out.println(lastIndex);
+    }
+
     public static int getFirstIndex(int[] array,int target){
         int start = 0;
         int end = array.length - 1;
@@ -49,12 +56,7 @@ public class FindTheFirstAndLastIndexOfAnElement {
         return index;
     }
 
-    public static void getFirstAndLastIndexOptimised(int[] array,int target){
-        int firstIndex = getFirstIndex(array,target);
-        int lastIndex = getLastIndex(array, target);
-        System.out.println(firstIndex);
-        System.out.println(lastIndex);
-    }
+
     public static void main(String[] args) {
 
         int[] array = {1,4,7,8,8,11,11,11,11,12,13,13};
