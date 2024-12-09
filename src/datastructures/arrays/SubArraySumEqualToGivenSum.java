@@ -3,7 +3,6 @@ package datastructures.arrays;
 import java.util.Arrays;
 
 public class SubArraySumEqualToGivenSum {
-
     public static int[] findTheLengthOfSubArraySum(int[] array,int k){
         int sum = 0;
         for(int i = 0; i < array.length; i++){
@@ -40,7 +39,9 @@ public class SubArraySumEqualToGivenSum {
         }
         return new int[]{-1};
     }
+
     public static void main(String[] args) {
+
         int[] array = {1,4,20,3,10,5};
         int k = 33;
         int[] lengthOfSubArraySum = findTheLengthOfSubArraySum(array, k);
@@ -48,5 +49,6 @@ public class SubArraySumEqualToGivenSum {
 
         int[] theLengthOfSubArraySum = findTheLengthOfSubArraySumOptimised(array, k);
         System.out.println(Arrays.toString(theLengthOfSubArraySum));
+        }
     }
-}
+
